@@ -1,0 +1,31 @@
+body{margin:0;
+    padding:0;
+    font-family: ariel;
+    background-color: beige;
+}
+h1{
+    color: orangered;
+    text-align: center;    
+}
+
+h2{text-align: center;
+}
+h3{
+    text-align: center;
+}
+.navbar ul{
+    list-style: none;
+    background-color: orangered;
+    width: 200px;
+    height:600px;
+    padding top: 500px;
+    margin: 0;
+}
+.navbar a{
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+}
+footer p{
+    text-align:right;
+}
