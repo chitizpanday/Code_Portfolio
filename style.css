@@ -22,14 +22,16 @@ h3{
     list-style: none;
     background-color: orangered;
     width: 200px;
-    height:283px;
+    height:295px;
     padding-top: 100px;
    border: 1px solid black;
+   text-align: center;
     }
     #mypic{
         width: 80px;
         height: 80px;
         border-radius: 50%;
+        border: 1px solid black;
     }
 
 .navbar a{
@@ -46,11 +48,14 @@ a:hover{
 #projects{
     color: black;
     text-decoration: underline;
+    
 }
+
 #projects:hover{
     color: white;
     background-color: black;
     cursor:pointer;
+    
 }
 .info{
     color: orangered;
@@ -61,8 +66,8 @@ footer p{
 div{
     background-color: orangered;
     height:150px;
-    width: 735px;
-    border:2px solid black;
+    width: 740px;
+    border:1px solid black;
     /* float:right; */
     margin: 30px;
     margin-left: 0px;
@@ -71,12 +76,13 @@ div{
     background-color:beige;
     color: orangered;
     font-weight: bolder;
+    margin-top: 10px;
 }
 #education{
     float: right;
-    width: 40%;
-    border: 2px solid black;
-    height: 643px;
+    width: 40.5%;
+    border: 0px solid black;
+    height: 637px;
 }
 #box2{
     background-color:orangered;
@@ -98,12 +104,14 @@ div{
     /* float:left; */
     margin-top: -20px;
 }
+
 #photos{
-    margin:0;
+    margin: 0;
     padding: 0;
     float: right;
     width: 80%;
-    height: 386px;
+    height: 397px;
+    border: 0px solid black;
 }
 #box5{
     background-color: beige;
@@ -115,20 +123,28 @@ div{
 }
 #project2{
  height: 100%;
-width: 33%;
+width: 32.5%;
+margin-right: 2px;
+border: 1px solid black;
+margin-bottom: 0%;
 
 }
 #project3{
 height: 100%;
-width: 32%;
+width: 32.5%;
+margin-right: 1px;
+border: 1px solid black;
 
 }
 #horiseon{
  height: 100%;
-width: 33%;
+width: 32.5%;
+margin-right: 2px;
+border: 1px solid black;
 
 }
 
 footer{
-    float: right; 
+    text-align: center; 
+    
 }
