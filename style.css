@@ -22,10 +22,11 @@ h3{
     list-style: none;
     background-color: orangered;
     width: 200px;
-    height:295px;
-    padding-top: 100px;
+    height: 335px;
+    padding: 30px;
    border: 1px solid black;
    text-align: center;
+   
     }
     #mypic{
         width: 80px;
@@ -39,6 +40,7 @@ h3{
     font-weight: bold;
     color:black;
     font-size: larger;
+    
     }
 a:hover{
     text-align: center;
@@ -68,7 +70,6 @@ div{
     height:150px;
     width: 740px;
     border:1px solid black;
-    /* float:right; */
     margin: 30px;
     margin-left: 0px;
 }
@@ -88,7 +89,6 @@ div{
     background-color:orangered;
     color:black;
     font-weight: bolder;
-    /* float:left; */
     margin-top: -20px;
 }
 #box3{
@@ -101,7 +101,6 @@ div{
     background-color:orangered;
     color:black;
     font-weight: bolder;
-    /* float:left; */
     margin-top: -20px;
 }
 
